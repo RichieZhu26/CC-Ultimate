@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FC679C3222D86BD400E6310D /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC679C3122D86BD400E6310D /* Utilities.swift */; };
+		FC096D08230A89C9000EA218 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC096D07230A89C9000EA218 /* Utilities.swift */; };
 		FC887AC122B39F2B00493DE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC887AC022B39F2B00493DE5 /* AppDelegate.swift */; };
 		FC887AC322B39F2B00493DE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC887AC222B39F2B00493DE5 /* ViewController.swift */; };
 		FC887AC622B39F2B00493DE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC887AC422B39F2B00493DE5 /* Main.storyboard */; };
@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FC679C3122D86BD400E6310D /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Utilities.swift; path = ../../../reference/DetectingObjectsInStillImages/VisionBasics/Utilities.swift; sourceTree = "<group>"; };
+		FC096D07230A89C9000EA218 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		FC887ABD22B39F2B00493DE5 /* CC Ultimate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CC Ultimate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC887AC022B39F2B00493DE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC887AC222B39F2B00493DE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,7 +69,7 @@
 				FC887B2E22B7579600493DE5 /* PreviewViewController.swift */,
 				FCC1D71822EEC87D00A4C413 /* OperatorViewController.swift */,
 				FCC1D71A22EED9ED00A4C413 /* OutputViewController.swift */,
-				FC679C3122D86BD400E6310D /* Utilities.swift */,
+				FC096D07230A89C9000EA218 /* Utilities.swift */,
 				FC887AC422B39F2B00493DE5 /* Main.storyboard */,
 				FC887AC722B39F3000493DE5 /* Assets.xcassets */,
 				FC887AC922B39F3000493DE5 /* LaunchScreen.storyboard */,
@@ -151,8 +151,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FCC1D71B22EED9ED00A4C413 /* OutputViewController.swift in Sources */,
-				FC679C3222D86BD400E6310D /* Utilities.swift in Sources */,
 				FC887AC322B39F2B00493DE5 /* ViewController.swift in Sources */,
+				FC096D08230A89C9000EA218 /* Utilities.swift in Sources */,
 				FCC1D71922EEC87D00A4C413 /* OperatorViewController.swift in Sources */,
 				FC887AC122B39F2B00493DE5 /* AppDelegate.swift in Sources */,
 				FC887B2F22B7579600493DE5 /* PreviewViewController.swift in Sources */,
