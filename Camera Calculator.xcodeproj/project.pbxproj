@@ -21,7 +21,7 @@
 
 /* Begin PBXFileReference section */
 		FC096D07230A89C9000EA218 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		FC887ABD22B39F2B00493DE5 /* CC Ultimate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CC Ultimate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC887ABD22B39F2B00493DE5 /* Camera Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Camera Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC887AC022B39F2B00493DE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC887AC222B39F2B00493DE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FC887AC522B39F2B00493DE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		FC887AB422B39F2B00493DE5 = {
 			isa = PBXGroup;
 			children = (
-				FC887ABF22B39F2B00493DE5 /* CC Ultimate */,
+				FC887ABF22B39F2B00493DE5 /* Camera Calculator */,
 				FC887ABE22B39F2B00493DE5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,12 +56,12 @@
 		FC887ABE22B39F2B00493DE5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC887ABD22B39F2B00493DE5 /* CC Ultimate.app */,
+				FC887ABD22B39F2B00493DE5 /* Camera Calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FC887ABF22B39F2B00493DE5 /* CC Ultimate */ = {
+		FC887ABF22B39F2B00493DE5 /* Camera Calculator */ = {
 			isa = PBXGroup;
 			children = (
 				FC887AC022B39F2B00493DE5 /* AppDelegate.swift */,
@@ -76,15 +76,15 @@
 				FC887ACC22B39F3000493DE5 /* Info.plist */,
 				FCC1D71622EB064200A4C413 /* MNISTClassifier.mlmodel */,
 			);
-			path = "CC Ultimate";
+			path = "Camera Calculator";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FC887ABC22B39F2B00493DE5 /* CC Ultimate */ = {
+		FC887ABC22B39F2B00493DE5 /* Camera Calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC887ACF22B39F3000493DE5 /* Build configuration list for PBXNativeTarget "CC Ultimate" */;
+			buildConfigurationList = FC887ACF22B39F3000493DE5 /* Build configuration list for PBXNativeTarget "Camera Calculator" */;
 			buildPhases = (
 				FC887AB922B39F2B00493DE5 /* Sources */,
 				FC887ABA22B39F2B00493DE5 /* Frameworks */,
@@ -94,9 +94,9 @@
 			);
 			dependencies = (
 			);
-			name = "CC Ultimate";
+			name = "Camera Calculator";
 			productName = TheBigBang;
-			productReference = FC887ABD22B39F2B00493DE5 /* CC Ultimate.app */;
+			productReference = FC887ABD22B39F2B00493DE5 /* Camera Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FC887AB822B39F2B00493DE5 /* Build configuration list for PBXProject "CC Ultimate" */;
+			buildConfigurationList = FC887AB822B39F2B00493DE5 /* Build configuration list for PBXProject "Camera Calculator" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FC887ABC22B39F2B00493DE5 /* CC Ultimate */,
+				FC887ABC22B39F2B00493DE5 /* Camera Calculator */,
 			);
 		};
 /* End PBXProject section */
@@ -304,7 +304,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UL3P7FR3FP;
-				INFOPLIST_FILE = "$(SRCROOT)/CC Ultimate/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Camera Calculator/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -323,7 +323,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UL3P7FR3FP;
-				INFOPLIST_FILE = "$(SRCROOT)/CC Ultimate/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Camera Calculator/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC887AB822B39F2B00493DE5 /* Build configuration list for PBXProject "CC Ultimate" */ = {
+		FC887AB822B39F2B00493DE5 /* Build configuration list for PBXProject "Camera Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC887ACD22B39F3000493DE5 /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FC887ACF22B39F3000493DE5 /* Build configuration list for PBXNativeTarget "CC Ultimate" */ = {
+		FC887ACF22B39F3000493DE5 /* Build configuration list for PBXNativeTarget "Camera Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC887AD022B39F3000493DE5 /* Debug */,

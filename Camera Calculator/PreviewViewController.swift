@@ -1,6 +1,6 @@
 //
 //  PreviewViewController.swift
-//  TheBigBang
+//  Camera Calculator
 //
 //  Created by myl142857 on 6/17/19.
 //  Copyright © 2019 myl142857. All rights reserved.
